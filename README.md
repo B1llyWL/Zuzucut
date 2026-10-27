@@ -22,8 +22,6 @@
 
 <h2>📸 Screenshot</h2>
 
-## Screenshots
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4bd7bad0-8690-44a3-a93b-7789c574d1c2" 
        alt="Bot interface"
